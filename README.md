@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k0lapo
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 A front end developer 
+- 🌱 Currently learning React
 - 💞️ I’m looking to collaborate on various open source projects
 - 📫 How to reach me madegbite7@gmail.com
 
